@@ -6,8 +6,8 @@ export default function LandingPage() {
       <section className="container mx-auto flex w-full px-2 pb-16 sm:mt-32 lg:px-0">
         <div className="flex w-full justify-center text-center text-slate-800 md:justify-start md:text-left">
           <div className="w-full md:w-1/2">
-            <h2 className="xs:text-2x1 lg:6x1 text-2xl font-bold uppercase leading-none md:text-5xl">
-              Sarita Karale<i className="text-blue-400 block">Software Developer</i>
+            <h2 className="pt-16 xs:text-2x1 lg:6x1 text-2xl font-bold uppercase leading-none md:text-5xl">
+              Sarita Karale<i className="text-blue-400 block">&lt;Software Developer /&gt; </i>
             </h2>
             <p className="my-12">
             Hola! I am Sarita, A web developer working with react and angular. Building awesome websites.

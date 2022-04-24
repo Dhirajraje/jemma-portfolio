@@ -46,10 +46,10 @@ export default function TimeLine() {
           <div className="flex-auto">
             <h1 className="text-lg">Bachelors degree</h1>
             <h1 className="text-xl font-bold">SKN Sinhgad Institure of Technology and Science, Lonavala</h1>
-            <h3>Computer Engineering</h3>
+            <h3>Computer Engineering with 9.6 GPA</h3>
           </div>
           <i className="text-center text-white hover:text-gray-300">
-            Jun-2017 to Jul-2021
+            Jun-2017 to Jun-2021
           </i>
         </div>
         <div className="relative ml-10 mb-10 flex transform cursor-pointer flex-col items-center space-y-4 rounded bg-blue-600 px-6 py-4 text-white transition hover:-translate-y-2 md:flex-row md:space-y-0">
